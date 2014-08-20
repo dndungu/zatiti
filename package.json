@@ -1,0 +1,33 @@
+{
+	"name": "zatiti",
+	"version": "0.0.1",
+	"description": "An e-commerce platform for the future. Designed for conversion and interoperability.",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dnjuguna/zatiti.git"
+	},
+	"keywords": [
+		"ecommerce",
+		"e-commerce",
+		"m-commerce",
+		"mcommerce",
+		"shop",
+		"store",
+		"storefront",
+		"conversion",
+		"restful"
+	],
+    "dependencies" : {
+        "gereji" : ">= 0.1.4"
+    },
+	"author": "David Njuguna <dnjuguna@gmail.com> (https://github.com/dnjuguna)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dnjuguna/zatiti/issues"
+	},
+	"homepage": "https://github.com/dnjuguna/zatiti"
+}
